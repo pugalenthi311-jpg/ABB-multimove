@@ -2,8 +2,7 @@
 
 This repository demonstrates **true coordinated motion** between two ABB robots using **MultiMove SyncMove**, and contrasts it with **non‑synchronized (independent) motion**.
 
-The goal is not to explain every RAPID instruction line‑by‑line, but to clearly show **why SyncMove + Motion IDs matter**, and what actually changes in robot behavior when they are used.
-
+![image alt](https://github.com/pugalenthi311-jpg/ABB-multimove/blob/main/Screenshot%202025-12-15%20161332.png?raw=true)
 ---
 
 ## 📁 Repository Structure
